@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Santiago Estupiñán-Salamanca
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Santiago
+last_name: Estupinan
 
 # Status emoji
 status:
@@ -20,62 +20,50 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Candidate 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Waterloo
+    url: https://uwaterloo.ca/combinatorics-and-optimization/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:sestupin@uwaterloo.ca'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Schubert Calculus.
+  - Hopf Algebras in Combinatorics.
+  - Algebraic Combinatorics. 
+  - Interaction between Polytopes and Symmetric Functions.
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Combinatorics and Optimization
+    institution: University of Waterloo
+    date_start: 2021-08-01
+    date_end: In progress.
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Why LLMs are awesome_.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.Sc. Mathematics
+    institution: University of Los Andes
+    date_start: 2020-00-00
+    date_end: 2018-12-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Thesis on a polytopal representation of Schur symmetric functions through a Hopf algebraic isomorphism by Aguiar and Ardila. A polytopal representation for power sum symmetric functions is also obtained, and both are shown to be consistent with a polytopal representation of the elementary symmetric functions found by Aguiar and Ardila. 
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: B.Sc. Mathematics
+    institution: University of Los Andes
+    date_start: 2018-00-00
+    date_end: 2014-00-00
     summary: |
       GPA: 3.4/4.0
       
