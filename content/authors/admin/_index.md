@@ -45,7 +45,7 @@ education:
   - area: Ph.D. Combinatorics and Optimization
     institution: University of Waterloo
     date_start: 2021-08-01
-    date_end: 2025-08-01
+    date_end: ''
     summary: |
       Thesis on _Why LLMs are awesome_.
     button:
