@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate 
+role: Ph.D. Candidate 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -42,7 +42,7 @@ interests:
   - Interaction between Polytopes and Symmetric Functions.
 
 education:
-  - area: PhD Combinatorics and Optimization
+  - area: Ph.D. Combinatorics and Optimization
     institution: University of Waterloo
     date_start: 2021-08-01
     date_end: 2025-08-01
@@ -170,5 +170,6 @@ awards:
 ---
 
 ## About Me
+I am a Ph.D. candidate in Combinatorics and Optimization at the University of Waterloo advised by Oliver Pechenik. Before that I studied at the University of Los Andes, where I completed a B.Sc. and a M.Sc. in Mathematics working with Carolina Benedetti. A constant theme in my work has been the exploration of discrete structures through their interaction with algebraic structures. Specifically, I have studied problems in the intersection of Schubert calculus, Hopf algebras, semigroup theory, polytopes coming from symmetric functions, and combinatorics. 
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Feel free to send me an email by clicking on the "@" icon. 
