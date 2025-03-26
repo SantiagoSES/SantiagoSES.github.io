@@ -45,7 +45,7 @@ education:
   - area: PhD Combinatorics and Optimization
     institution: University of Waterloo
     date_start: 2021-08-01
-    date_end: In progress.
+    date_end: 2025-08-01
     summary: |
       Thesis on _Why LLMs are awesome_.
     button:
@@ -53,8 +53,8 @@ education:
       url: 'https://example.com'
   - area: M.Sc. Mathematics
     institution: University of Los Andes
-    date_start: 2020-00-00
-    date_end: 2018-12-31
+    date_start: 2018-08-15
+    date_end: 2020-07-28
     summary: |
       Thesis on a polytopal representation of Schur symmetric functions through a Hopf algebraic isomorphism by Aguiar and Ardila. A polytopal representation for power sum symmetric functions is also obtained, and both are shown to be consistent with a polytopal representation of the elementary symmetric functions found by Aguiar and Ardila. 
     button:
@@ -62,8 +62,8 @@ education:
       url: 'https://example.com'
   - area: B.Sc. Mathematics
     institution: University of Los Andes
-    date_start: 2018-00-00
-    date_end: 2014-00-00
+    date_start: 2018-08-01
+    date_end: 2014-01-15
     summary: |
       GPA: 3.4/4.0
       
