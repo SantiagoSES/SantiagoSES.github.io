@@ -1,10 +1,10 @@
 ---
-title: Selective Randomization Inference for Adaptive Experiments
+title: Jeu de Taquin for Mixed Insertion and a Problem by Cho
 
-event: Bernoulli-IMS 11th World Congress in Probability and Statistics
+event: Combinatorial Algebra Meets Algebraic Combinatorics (CAAC) 2025
 event_url:
 
-location: Bochum, Germany
+location: The Fields Institute / University of Toronto. Toronto, Canada
 
 summary:
 abstract:
