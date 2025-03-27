@@ -66,12 +66,13 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Featured Talks
       filters:
         folders:
           - event
+        featured_only: true
     design:
-      view: article-grid
+      view: date-title-summary-tweaked
       columns: 1
   - block: collection
     id: news
