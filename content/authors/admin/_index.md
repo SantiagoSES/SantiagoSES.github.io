@@ -170,6 +170,6 @@ awards:
 ---
 
 ## About Me
-I am a Ph.D. candidate in Combinatorics and Optimization at the University of Waterloo advised by Oliver Pechenik. Before that I studied at the University of Los Andes, where I completed a B.Sc. and a M.Sc. in Mathematics working with Carolina Benedetti. A constant theme in my work has been the exploration of discrete structures through their interaction with algebraic structures. Specifically, I have studied problems in the intersection of Schubert calculus, Hopf algebras, semigroup theory, polytopes coming from symmetric functions, and combinatorics. 
+I am a Ph.D. candidate in Combinatorics and Optimization at the University of Waterloo advised by [Oliver Pechenik](https://www.math.uwaterloo.ca/~opecheni/). Before that I studied at the University of Los Andes, where I completed a B.Sc. and a M.Sc. in Mathematics working with [Carolina Benedetti](https://sites.google.com/site/carobenedettimath/home). A constant theme in my work has been the exploration of discrete structures through their interaction with algebraic structures. Specifically, I have studied problems in the intersection of Schubert calculus, Hopf algebras, semigroup theory, polytopes coming from symmetric functions, and combinatorics. 
 
 Feel free to send me an email by clicking on the "@" icon. 
