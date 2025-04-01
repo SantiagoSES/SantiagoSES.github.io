@@ -41,7 +41,36 @@ interests:
   - Algebraic Combinatorics. 
   - Interaction between Polytopes and Symmetric Functions.
 
-
+education:
+  - area: Ph.D. Combinatorics and Optimization
+    institution: University of Waterloo
+    date_start: 2021-08-01
+    date_end: ''
+    summary: |
+      Thesis on _Why LLMs are awesome_.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: M.Sc. Mathematics
+    institution: University of Los Andes
+    date_start: 2018-08-15
+    date_end: 2020-07-28
+    summary: |
+      Thesis on a polytopal representation of Schur symmetric functions through a Hopf algebraic isomorphism by Aguiar and Ardila. A polytopal representation for power sum symmetric functions is also obtained, and both are shown to be consistent with a polytopal representation of the elementary symmetric functions found by Aguiar and Ardila. 
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: B.Sc. Mathematics
+    institution: University of Los Andes
+    date_start: 2018-08-01
+    date_end: 2014-01-15
+    summary: |
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
