@@ -13,7 +13,7 @@ main:
   - name: Talks
     url: /#talks
     weight: 12
-  - name: Experience
+  - name: Teaching
     url: experience/
     weight: 20
   - name: Projects
