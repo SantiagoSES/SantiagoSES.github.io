@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "Hello"
-date: 2022-10-24
+title: "Santiago Estupiñán-Salamanca"
+date: 2025-04-01
 type: landing
 
 design:
@@ -13,7 +13,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: ""
+      text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
         text: ''
