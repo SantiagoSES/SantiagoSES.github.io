@@ -43,7 +43,7 @@ interests:
 
 
 work:
-  - position: Director of Cloud Infrastructure
+  - position: Director of Cloud Infrastructure22
     company_name: GenCoin
     company_url: ''
     company_logo: ''
