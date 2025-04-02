@@ -42,7 +42,7 @@ interests:
   - Interaction between Polytopes and Symmetric Functions.
 
 
-teaching:
+work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
     company_url: ''
