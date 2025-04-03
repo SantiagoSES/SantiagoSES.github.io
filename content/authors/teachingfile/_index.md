@@ -55,17 +55,25 @@ work:
     company_name: University of Waterloo
     company_url: ''
     company_logo: ''
-    date_start: 
+    date_start: 2021-08-15
     date_end: 2024-12-20
     summary: |2-
       Teaching assistant for the courses:
-      - Real Analysis.
-      - Game Theory.
-      - Calculus I.
-      - Calculus II.
-      - Calculus II and Probability.
-      - Calculus III.
+      - Introduction to Combinatorics.
+      - Introduction to Combinatorics (Advanced Level).
+      - History of Mathematics.
+      - Linear Algebra I for Honours Mathematics.
+      - Calculus III for Honours Mathematics.
+      - Applied Cryptography.
       - Calculus III and Linear Algebra.
+  - position: Head Teaching Assistant
+    company_name: University of Waterloo
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-08-15
+    date_end: 2023-12-20
+    summary: |2-
+      Teaching Assistant for Introduction to Optimization and in charge of coordinating the teaching assistant team.
   - position: Teaching Assistant
     company_name: University of Los Andes
     company_url: ''
@@ -76,10 +84,8 @@ work:
       Teaching assistant for the courses:
       - Real Analysis.
       - Game Theory.
-      - Calculus I.
-      - Calculus II.
+      - Calculus I, II, and III.
       - Calculus II and Probability.
-      - Calculus III.
       - Calculus III and Linear Algebra.
 
   - position: Teaching Assistant.
