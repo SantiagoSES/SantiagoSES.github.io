@@ -1,17 +1,17 @@
 ---
-title: Jeu de Taquin for Mixed Insertion and a Problem by Cho (Poster)
+title: A new shifted Littlewood-Richardson rule.
 
-event: Combinatorial Algebra Meets Algebraic Combinatorics (CAAC) 2025
+event: Graduate Online Combinatorics Colloquium (GOCC) 2024
 event_url:
 
-location: The Fields Institute / University of Toronto. Toronto, Canada
+location: Online
 
 summary:
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-01-24T00:00:00Z'
+date: '2025-03-27T00:00:00Z'
 lastmod: '2024-11-04T00:00:00Z'
 # date_end:
 all_day: false

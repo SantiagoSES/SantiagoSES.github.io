@@ -1,17 +1,17 @@
 ---
-title: Jeu de Taquin for Mixed Insertion and a Problem by Cho (Poster)
+title: Schur and Power Sum Polytopes 
 
-event: Combinatorial Algebra Meets Algebraic Combinatorics (CAAC) 2025
+event: Special Session on Many Perspectives on Hopf Algebras in Combinatorics
 event_url:
 
-location: The Fields Institute / University of Toronto. Toronto, Canada
+location: University of Manitoba / University of Winnipeg. Winnipeg, Canada
 
 summary:
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-01-24T00:00:00Z'
+date: '2023-06-08T00:00:00Z'
 lastmod: '2024-11-04T00:00:00Z'
 # date_end:
 all_day: false
