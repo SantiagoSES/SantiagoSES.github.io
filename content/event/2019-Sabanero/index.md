@@ -1,17 +1,17 @@
 ---
-title: A new shifted Littlewood-Richardson rule
+title: Symmetric Polytopes
 
-event: Michigan State University Combinatorics and Graph Theory Seminar (CAAC) 2025
+event: Seminario Sabanero de Combinatoria (Combinatorics Seminar)
 event_url:
 
-location: Online / Michigan State University.
+location: Pontificia Universidad Javeriana. Bogotá, Colombia
 
 summary:
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-02-07T00:00:00Z'
+date: '2019-11-07T00:00:00Z'
 lastmod: '2024-11-04T00:00:00Z'
 # date_end:
 all_day: false

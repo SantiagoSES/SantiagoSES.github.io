@@ -1,17 +1,17 @@
 ---
-title: A new shifted Littlewood-Richardson rule
+title: Schur and Power Sum Polytopes 
 
-event: Michigan State University Combinatorics and Graph Theory Seminar (CAAC) 2025
+event: Algebra and Geometry Seminar
 event_url:
 
-location: Online / Michigan State University.
+location: Università di Bologna / Online.
 
 summary:
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-02-07T00:00:00Z'
+date: '2021-03-16T00:00:00Z'
 lastmod: '2024-11-04T00:00:00Z'
 # date_end:
 all_day: false
