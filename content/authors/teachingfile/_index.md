@@ -61,10 +61,10 @@ work:
       Teaching assistant for the courses:
       - Introduction to Combinatorics.
       - Introduction to Combinatorics (Advanced Level).
+      - Applied Cryptography.
       - History of Mathematics.
       - Linear Algebra I for Honours Mathematics.
       - Calculus III for Honours Mathematics.
-      - Applied Cryptography.
       - Calculus III and Linear Algebra.
   - position: Head Teaching Assistant
     company_name: University of Waterloo
@@ -95,7 +95,7 @@ work:
     date_start: 2016-07-15
     date_end: 2016-07-26
     summary: |
-      Teaching assistant for a minicourse on tropical geometry.
+      Teaching assistant for the minicourse on tropical geometry.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

@@ -54,7 +54,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Featured Talks
+      title: Featured Talks and Posters
       filters:
         folders:
           - event
