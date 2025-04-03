@@ -42,29 +42,54 @@ interests:
   - Interaction between Polytopes and Symmetric Functions.
 
 
-teaching:
-  - position: Director of Cloud Infrastructure22
-    company_name: GenCoin
+work:
+  - position: Instructor 
+    company_name: University of Waterloo
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2025-01-05
+    date_end: 2025-05-20
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      Instructor for Calculus II for the Sciences. 
+  - position: Teaching Assistant
+    company_name: University of Waterloo
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 
+    date_end: 2024-12-20
+    summary: |2-
+      Teaching assistant for the courses:
+      - Real Analysis.
+      - Game Theory.
+      - Calculus I.
+      - Calculus II.
+      - Calculus II and Probability.
+      - Calculus III.
+      - Calculus III and Linear Algebra.
+  - position: Teaching Assistant
+    company_name: University of Los Andes
+    company_url: ''
+    company_logo: ''
+    date_start: 2017-08-15
+    date_end: 2020-05-30
+    summary: |2-
+      Teaching assistant for the courses:
+      - Real Analysis.
+      - Game Theory.
+      - Calculus I.
+      - Calculus II.
+      - Calculus II and Probability.
+      - Calculus III.
+      - Calculus III and Linear Algebra.
+
+  - position: Teaching Assistant.
+    company_name: Días de Combinatoria 2019 (Combinatorics Summer School.)
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-07-15
+    date_end: 2016-07-26
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Teaching assistant for a minicourse on tropical geometry.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
