@@ -1,5 +1,5 @@
 ---
-title: A new shifted Littlewood-Richardson rule
+title: A new shifted Littlewood-Richardson rule (Poster)
 
 event: Combinatorial Algebra Meets Algebraic Combinatorics (CAAC) 2024
 event_url:
