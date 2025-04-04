@@ -42,7 +42,7 @@ interests:
   - Interaction between Polytopes and Symmetric Functions.
 
 education:
-  - area: Ph.D. Combinatorics and Optimization
+  - area: Ph.D. Combinatorics and Optimization (In Progress)
     institution: University of Waterloo
     date_start: 2021-08-01
     date_end: ''
