@@ -17,13 +17,13 @@ marketing:
     description: 'Personal website of Santiago Estupinan. PhD Candidate at the University of Waterloo, working in the field of algebraic combinatorics. Interested in Schubert calculus, Hopf algebras, and semigroups related to combinatorics.'
     twitter: 'GetResearchDev'
   analytics:
-    google_analytics: ''
+    google_analytics: 'google-site-verification=DFm0h0h28xKJ78_mGATV8SzEtMFYBrGC3M6NChqxPKA'
     baidu_tongji: ''
     plausible: ''
     fathom: ''
     pirsch: ''
   verification:
-    google: '7BpSoFP3KXjaiBtzu3F9RpF7JhmAYUxpQ_GKEbgnChk'
+    google: 'google-site-verification=DFm0h0h28xKJ78_mGATV8SzEtMFYBrGC3M6NChqxPKA'
     baidu: ''
 
 # Site header
