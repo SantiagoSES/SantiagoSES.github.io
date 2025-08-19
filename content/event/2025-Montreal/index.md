@@ -4,7 +4,7 @@ title: A new shifted Littlewood-Richardson rule.
 event: LACIM Seminar.  
 event_url:
 
-location: UQAM. Montréal, Canada.
+location: UQAM. Montreal, Canada.
 
 summary:
 abstract:
