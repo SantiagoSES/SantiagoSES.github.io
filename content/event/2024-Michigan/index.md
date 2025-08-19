@@ -1,7 +1,7 @@
 ---
 title: A new shifted Littlewood-Richardson rule
 
-event: Michigan State University Combinatorics and Graph Theory Seminar (CAAC) 2025
+event: Michigan State University Combinatorics and Graph Theory Seminar 
 event_url:
 
 location: Online / Michigan State University.
