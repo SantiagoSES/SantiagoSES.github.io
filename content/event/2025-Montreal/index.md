@@ -11,7 +11,7 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-25-04T00:00:00Z'
+date: '2025-04-25T00:00:00Z'
 lastmod: '2025-04-25T00:00:00Z'
 # date_end:
 all_day: false
